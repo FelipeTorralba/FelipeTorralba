@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! 👋 Soy Felipe</h1>
+
 <p align="center">Desarrolador de software full stack | Apasionado por JavaScript, bases de datos y la creación de soluciones web. 🚀 En constante crecimiento<p>
 
 ---
